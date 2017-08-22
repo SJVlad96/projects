@@ -33,7 +33,7 @@ int[] numUserTab = new int[4];
 				
 			
 				Scanner sc = new Scanner(System.in);
-				System.out.println("¬ведите число: ");
+				System.out.println("Your number: ");
 				
 				
 //System.out.println(numRandomTab[0]+""+numRandomTab[1]+""+numRandomTab[2]+""+numRandomTab[3]);
